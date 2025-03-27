@@ -1,2 +1,2 @@
-FROM nginx:latest
+FROM nginx
 COPY code /usr/share/nginx/html
